@@ -371,5 +371,5 @@ CineNexus یک پلتفرم شبکه اجتماعی تمام‌عیار برای
 ---
 
 > توسعه داده شده با  توسط مهدی نظری  
-> LinkedIn: [https://www.linkedin.com/in/mahdi-parsian](https://www.linkedin.com/in/mahdi-parsian)
+>  LinkedIn: [https://www.linkedin.com/in/mahdi-nazari7/](https://www.linkedin.com/in/mahdi-nazari7)
 
