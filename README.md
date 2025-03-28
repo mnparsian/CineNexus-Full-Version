@@ -170,14 +170,12 @@ CineNexus is a showcase of modern full-stack web development with a focus on:
 
 ---
 
----
-
 ## 📄 License
 
 This project is licensed under the **MIT License**.  
 See the [LICENSE](./LICENSE) file for full details.
 
-
+---
 # 🇮🇹 CineNexus (Italiano)
 
 CineNexus è una piattaforma social full-stack pensata per gli appassionati di film e serie TV. Permette agli utenti di scoprire, tracciare, recensire e discutere film e serie, offrendo anche un'esperienza sociale con connessioni tra amici, chat in tempo reale e suggerimenti personalizzati basati sull'intelligenza artificiale.
@@ -343,6 +341,8 @@ CineNexus è un esempio di sviluppo web full-stack moderno con focus su:
 > Realizzato con da Mahdi Nazari 
 LinkedIn: [https://www.linkedin.com/in/mahdi-nazari7/](https://www.linkedin.com/in/mahdi-nazari7)
 >
+> ---
+> 
 > # 🇮🇷 CineNexus (فارسی)
 
 CineNexus یک پلتفرم شبکه اجتماعی تمام‌عیار برای علاقه‌مندان به فیلم و سریال است. کاربران می‌توانند:
